@@ -8,7 +8,7 @@
     "build": "ng build"
   },
   "dependencies": {
-    "@angular/common": "^22.1.0",
+    "@angular/common": "^22.1.1",
     "@angular/compiler": "^22.1.0",
     "@angular/core": "^22.1.0",
     "@angular/platform-browser": "^22.1.0",
